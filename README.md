@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oxnumb
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ..d
+- 🌱 I’m currently learning ..dd
 - 💞️ I’m looking to collaborate on dfsg
 - 📫 How to reach me l
 
