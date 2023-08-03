@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ..dd
 - 💞️ I’m looking to collaborate on dfsg
-- 📫 How to reach me l
+- 📫 How to reach me luy
 
 <!---
 Oxnumb/Oxnumb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
