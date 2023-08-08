@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oxnumb
-- 👀 I’m interested in ...G
+- 👀 I’m interested in ...Gd
 - 🌱 I’m currently learning ..ddlll
 - 💞️ I’m looking to collaborate on dfsgm
 - 📫 How to reach me luy
